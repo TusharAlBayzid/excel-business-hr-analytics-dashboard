@@ -55,6 +55,4 @@ Developed an executive-level HR Dashboard addressing critical workforce KPIs:
 
 ---
 
-## 👤 Author
-Developed as part of Data Analytics Practice.
-- **GitHub:** [@your-github-username](https://github.com/your-github-username)
+

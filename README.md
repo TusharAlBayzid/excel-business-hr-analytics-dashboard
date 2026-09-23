@@ -55,4 +55,10 @@ Developed an executive-level HR Dashboard addressing critical workforce KPIs:
 
 ---
 
+## 👨‍💻 Author
 
+**Bayzid Mostak**<br>
+*Data Analyst & Visualization Expert*
+
+*   [LinkedIn] https://www.linkedin.com/in/bayzid-mostak-data-analyst/
+*   [GitHub] https://github.com/TusharAlBayzid
